@@ -78,6 +78,10 @@
     "New York": [
       ["1", "LUqvaC60LFeidJsA", "Cases_current", "0", "OBJECTID"],
       ["name", "confirmed"]
+    ],
+    "Pennsylvania": [
+      ["1", "0MSEUqKaxRlEPj5g", "ncov_cases_US", "0", "OBJECTID"],
+      ["FIPS", "Confirmed"]
     ]
   }
 }
